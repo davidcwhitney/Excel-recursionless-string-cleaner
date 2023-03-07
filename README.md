@@ -2,4 +2,4 @@
 Victor, the string cleaner
 
 # Description
-Versatile and powerful formula-driven string cleaner.
+Versatile and powerful string cleaner driven by Excel dynamic array formulas.  No recursion.
